@@ -37,7 +37,7 @@ layers:
   - /
   - '='
   - {t: SYM, h: sticky}
-  - Shift
+  - ␣
   - {t: BACKSPACE, h: NUM}
   - {t: DELETE, h: NUM}
   - ENTER
