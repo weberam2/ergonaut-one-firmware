@@ -13,7 +13,7 @@ layers:
   - P
   - '['
   - {t: '`', h: Ctrl}
-  - A
+  - {t: A, h: Shift}
   - S
   - D
   - F
