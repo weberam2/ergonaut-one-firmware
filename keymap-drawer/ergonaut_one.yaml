@@ -20,7 +20,7 @@ layers:
   - G
   - H
   - {t: J, h: RIGHT ALT}
-  - {t: K, h: RMETA}
+  - {t: K, h: LMETA}
   - {t: L, h: Ctrl}
   - {t: ;, h: Shift}
   - ''''
