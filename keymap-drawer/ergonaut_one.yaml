@@ -8,7 +8,7 @@ layers:
   - T
   - Y
   - U
-  - I
+  - {t: I, h: LEFT GUI}
   - O
   - P
   - \
@@ -20,7 +20,7 @@ layers:
   - G
   - H
   - {t: J, h: RIGHT ALT}
-  - {t: K, h: LMETA}
+  - {t: K, h: RIGHT COMMAND}
   - {t: L, h: Ctrl}
   - {t: ;, h: Shift}
   - ''''
