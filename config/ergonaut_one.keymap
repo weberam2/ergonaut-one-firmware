@@ -9,7 +9,7 @@
 
 &lt { quick-tap-ms = <200>; };
 
-&mt { quick-tap-ms = <200>; };
+&mt { quick-tap-ms = <300>; };
 
 / {
     conditional_layers {
