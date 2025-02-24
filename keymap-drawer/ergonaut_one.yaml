@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: ergonaut_one}
 layers:
   MAIN:
   - ↹
@@ -8,7 +9,7 @@ layers:
   - T
   - Y
   - U
-  - {t: I, h: LEFT GUI}
+  - I
   - O
   - P
   - \
