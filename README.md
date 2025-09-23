@@ -1,3 +1,8 @@
+# Important:
+To find file: Go to Actions > .github/workflows/build.yml
+
+Also: to flash just one side, you still need to flash the other with the new file as well :(
+
 # ZMK Firmware for Ergonaut One keyboard
 
 This is a repository for a ZMK Firmware for Ergonaut One keyboard.
