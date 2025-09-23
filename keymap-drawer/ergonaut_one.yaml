@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - \
+  - A
   - Esc
   - {t: A, h: Shift}
   - {t: S, h: Ctrl}
